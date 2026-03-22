@@ -6,7 +6,7 @@ Script d'automatisation **ultra-complet** pour transformer RHEL/AlmaLinux 9/10 m
 
 ## Contexte : Pourquoi ce projet existe
 
-L'article *"The Insecurity of OpenBSD"* [web:9] expose une critique philosophique majeure de l'approche sécurité d'OpenBSD :
+L'article *"The Insecurity of OpenBSD"* expose une critique philosophique majeure de l'approche sécurité d'OpenBSD :
 
 > **"Tant qu'OpenBSD ne fournit pas de mécanismes sérieux pour limiter les dégâts APRÈS une compromission, on ne peut pas considérer qu'il est 'réellement' sécurisé."**
 
