@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/valorisa/rhel-ultra-hardening-motion?style=social)](https://github.com/valorisa/rhel-ultra-hardening-motion)
 
-Script d'automatisation **ultra-complet** pour transformer RHEL/AlmaLinux 9/10 minimal en bastion de sécurité **defense-in-depth**, répondant aux critiques fondamentales de l'article *"The Insecurity of OpenBSD"* (2010).
+Script d'automatisation **ultra-complet** pour transformer RHEL/AlmaLinux 9/10 minimal en bastion de sécurité **defense-in-depth**, répondant aux critiques fondamentales de l'article *"The Insecurity of OpenBSD"* (2010). https://allthatiswrong.wordpress.com/2010/01/20/the-insecurity-of-openbsd/?fbclid=IwY2xjawQs3LVleHRuA2FlbQIxMABicmlkETA3eWFTTXZ5N3F5cldYNGhwc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHt6YqvlWGf8SIIAuCTKt9s0VtUEu9GVJPwI8kVp4zldg2XgNNwcKRZZh5qTU_aem_2EEZHU5NTHiVxD7zaE61cQ
 
 ## Contexte : Pourquoi ce projet existe
 
