@@ -58,6 +58,7 @@ chmod +x rhel-ultra-hardening-motion.sh
 curl -s https://raw.githubusercontent.com/valorisa/rhel-ultra-hardening-motion/main/rhel-ultra-hardening-motion.sh | bash 1
 # REBOOT → Phase 2
 curl -s https://raw.githubusercontent.com/valorisa/rhel-ultra-hardening-motion/main/rhel-ultra-hardening-motion.sh | bash 2
+```
 
 ## Vérification finale
 
