@@ -1,5 +1,7 @@
 # RHEL Ultra-Hardening Motion
 
+[![GitHub stars](https://img.shields.io/github/stars/valorisa/rhel-ultra-hardening-motion?style=social)](https://github.com/valorisa/rhel-ultra-hardening-motion)
+
 Script d'automatisation **ultra-complet** pour transformer RHEL/AlmaLinux 9/10 minimal en bastion de sécurité **defense-in-depth**, répondant aux critiques fondamentales de l'article *"The Insecurity of OpenBSD"* (2010).
 
 ## Contexte : Pourquoi ce projet existe
@@ -48,6 +50,14 @@ chmod +x rhel-ultra-hardening-motion.sh
 # Phase 2 post-reboot
 ./rhel-ultra-hardening-motion.sh 2
 ```
+
+## 🔥 Installation one-liner (avancé)
+
+```bash
+# Télécharge + exécute direct (Phase 1)
+curl -s https://raw.githubusercontent.com/valorisa/rhel-ultra-hardening-motion/main/rhel-ultra-hardening-motion.sh | bash 1
+# REBOOT → Phase 2
+curl -s https://raw.githubusercontent.com/valorisa/rhel-ultra-hardening-motion/main/rhel-ultra-hardening-motion.sh | bash 2
 
 ## Vérification finale
 
